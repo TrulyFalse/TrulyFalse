@@ -43,4 +43,4 @@ I am a versatile developer and researcher with a passion for building intelligen
 ### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/abrar-ur-alam-154566366](https://linkedin.com/in/abrar-ur-alam-154566366)
-* **Location:** Dhaka, Bangladesh
+* **Email:** [safee20142@gmail.com](mailto:safee20142@gmail.com)
