@@ -2,7 +2,7 @@
 
 **Aspiring Full-Stack Developer | AI/ML Researcher | Robotics Enthusiast**
 
-I am a versatile developer and researcher with a passion for building intelligent systems. My expertise spans from full-stack web development, automated robotics, AWS cloud management to cutting-edge and machine learning research. 
+I am a versatile developer and researcher with a passion for building intelligent systems. My expertise spans from full-stack web development, automated robotics, AWS cloud management and machine learning research. 
 
 ---
 
