@@ -18,7 +18,7 @@ I am a versatile developer and researcher with a passion for building intelligen
 ### 🛠️ Featured Projects
 
 * **Autonomous Pick-and-Place Robot:** A four-wheeled, one-armed robot utilizing computer vision, trajectory planning, and inverse kinematics for object handling.
-* **Agile E-Commerce for Farmers:** A full-stack (Vanilla/Node/MySQL) platform built with a strict SDLC, featuring GitHub Wiki documentation and Jest unit testing.
+* **E-Commerce for Farmers:** A full-stack (Vanilla/Node/MySQL) platform built with a strict SDLC, featuring GitHub Wiki documentation and Jest unit-testing.
 * **Automated Toll System:** An OCR-based collection system implemented using Raspberry Pi, LCDs, and servos.
 
 ---
